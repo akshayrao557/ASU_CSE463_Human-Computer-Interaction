@@ -1,1 +1,1 @@
-# ASU_CSE463_HumanCompInteraction_AppleWebsiteProtoType
+# ASU_CSE463: Human Computer Interaction - Apple Website ProtoType
