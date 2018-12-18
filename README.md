@@ -9,6 +9,6 @@
     
     c. Application of Universal Design Principle
     
-    d. Usability Testing
+    d. Usability Testing ( T - Test )
     
     e. New Improved Prototype with usuability issues addresse
