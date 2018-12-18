@@ -1,6 +1,6 @@
 # ASU_CSE463: Human Computer Interaction 
 
-1. Apple Website ProtoType
+1. Apple Website Prototype
 2. M S Ramaiah Institute of Technology Website
 
     a. Heuristic Evaluation
@@ -11,4 +11,4 @@
     
     d. Usability Testing (T-Test)
     
-    e. New Improved Prototype with usuability issues addresse
+    e. New Improved Prototype with usuability issues addressed
